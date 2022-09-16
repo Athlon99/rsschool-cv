@@ -17,7 +17,7 @@ I am strong in logical thinking and good at troubleshooting. And I'm sure I will
 
 ###Skills
 
-HTML5, CSS3, Javascript, Flexbox, GIT version control.
+HTML5, CSS3, Javascript, GIT version control.
 
 ###Education
 
