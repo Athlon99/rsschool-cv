@@ -24,7 +24,6 @@ HTML5, CSS3, Javascript, GIT version control.
 ###Education
 
 Master's degree in Electrical and Power Engineering;
-Courses: Build Responsive Real-World Websites with HTML and CSS.
 
 
 ###English
