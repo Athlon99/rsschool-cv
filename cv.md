@@ -1,5 +1,7 @@
 #Pavels Limankins
 
+Riga, Latvia
+
 ###Contacts
 
 Phone: +371 26039988
